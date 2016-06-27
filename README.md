@@ -1,5 +1,5 @@
  
-## Simple CRUD Operations with pagination
+## Simple CRUD application with pagination
 
 ### Stack :
 Spring /
