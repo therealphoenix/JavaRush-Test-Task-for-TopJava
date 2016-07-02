@@ -6,7 +6,7 @@ Spring /
 Hibernate /
 Maven /
 Spring MVC /
-MySql /
+MySql  / 
 Tomcat
 
 
