@@ -67,12 +67,8 @@ public class HomeController {
             mav.addObject("userList", userList);
 
         }
-
-
         return mav;
     }
-
-
 
     @RequestMapping(value="/search", method=RequestMethod.GET)
     public ModelAndView userSearchPage(@RequestParam(value = "searchstring", required = false) String s) {
